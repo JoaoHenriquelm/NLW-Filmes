@@ -1,7 +1,7 @@
 # NLW-Filmes
 
-![preview]()
+![preview](./.github/preview.png)
 
 > Desafio Explorer
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://joaohenriquelm.github.io/NLW-Filmes/)
