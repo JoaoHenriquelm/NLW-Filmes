@@ -1,2 +1,7 @@
 # NLW-Filmes
- Desafio NLW
+
+![preview]()
+
+> Desafio Explorer
+
+[🔗 Clique aqui para acessar]()
